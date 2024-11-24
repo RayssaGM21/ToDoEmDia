@@ -75,7 +75,7 @@ $statusTarefa = mysqli_query($conn, $sqlTa);
                     <div class="card-header">
                         <h4>
                             Tarefas Registradas
-                            <a data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="btn btn-info float-end">Adicionar usuário</a>
+                            <a data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="btn btn-info float-end">Adicionar tarefa</a>
                         </h4>
                     </div>
                     <div class="card-body">
